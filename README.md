@@ -27,43 +27,41 @@ I specialize in Java development with expertise in Spring Boot, Spring Cloud, Do
 <br>
 
 <a href="https://github.com/yewin-mm/spring-boot-jpa-docker-jenkins-pipeline">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-boot-jpa-docker-jenkins-pipeline&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-boot-jpa-docker-jenkins-pipeline&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
 </a>
 
 <a href="https://github.com/yewin-mm/jenkins-server">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=jenkins-server&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=jenkins-server&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
 </a>
 
+<br>
+
 <a href="https://github.com/yewin-mm/java-runner">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=java-runner&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=java-runner&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
+</a>
+
+<a href="https://github.com/yewin-mm/spring-boot-jpa-docker-compose">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-boot-jpa-docker-compose&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
 </a>
 
 <br>
 
 <a href="https://github.com/yewin-mm/spring-cloud-config-sample-microservice-a">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-cloud-config-sample-microservice-a&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-cloud-config-sample-microservice-a&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
 </a>
 
 <a href="https://github.com/yewin-mm/spring-cloud-eureka-sample-microservice-a">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-cloud-eureka-sample-microservice-a&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-</a>
-
-<a href="https://github.com/yewin-mm/spring-boot-jpa-docker-compose">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-boot-jpa-docker-compose&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-cloud-eureka-sample-microservice-a&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
 </a>
 
 <br>
 
 <a href="https://github.com/yewin-mm/spring-security-jpa-jwt">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-security-jpa-jwt&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=spring-security-jpa-jwt&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
 </a>
 
 <a href="https://github.com/yewin-mm/restapi-sample-caller-service">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=restapi-sample-caller-service&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
-</a>
-
-<a href="https://github.com/yewin-mm/restapi-sample-receiver-service">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=restapi-sample-receiver-service&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=yewin-mm&repo=restapi-sample-caller-service&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=3535503F" />
 </a>
 
 <br>
