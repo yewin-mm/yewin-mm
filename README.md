@@ -1,4 +1,4 @@
-[![Ye Win Banner](./images/GitHubHeader.png)](https://yewin.me/)
+[![Ye Win Banner](images/header.png)](https://yewin.me/)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-win-1a33a292/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yewin.me/)
