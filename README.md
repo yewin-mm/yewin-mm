@@ -1,6 +1,8 @@
-[//]: # ([![Ye Win Banner]&#40;images/header.png&#41;]&#40;https://yewin.me/&#41;)
+<p align="center">
 [![Ye Win Banner](images/header.png)](https://yewin.me/)
+</p>
 
+<p align="center">
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-win-1a33a292/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yewin.me/)
 <a href="mailto:yewin.mmr@gmail.com">
@@ -13,17 +15,23 @@
 <a href="skype:live:yephonethway94_1?chat">
 <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
 </a>
+</p>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=yewin-mm&color=blueviolet&style=flat-square&label=Profile+Views" />
+</p>
+
 
 Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions and experienced in DevOps and Architect. <br>
-I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and working knowledge of Kubernetes and Openshift.
+I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes.
 
-### 👨🏻‍💻 My Portfolio Website
+## 👨🏻‍💻 My Portfolio Website
 ⬇️⬇️⬇️️️️ <br>
 <a href="https://yewin.me/">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 
-### 📌 Pinned Repositories
+## 📌 Pinned Repositories
 
 <br>
 
@@ -67,7 +75,7 @@ I specialize in Java development with expertise in Spring Boot, Spring Cloud, Do
 
 <br>
 
-### 💼 A Little more about me...
+## 💼 A Little more about me...
 ```java
 @Slf4j
 public class YeWin {
@@ -96,14 +104,19 @@ public class YeWin {
 }
 ```
 
+## 🥰 Becoming a Sponsor
+If you like any of my projects or if you want to support my work, please kindly consider becoming a sponsor. <br>
+It gives me great motivation and I can relentlessly maintain my projects and contribute to the open-source community.
 
-### 📈 GitHub Stats
+<a href="https://www.buymeacoffee.com/yewin" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="150" ></a>
+
+## 📈 GitHub Stats
 <br>
 
 <a href="https://github.com/yewin-mm">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewin-mm&layout=compact&hide_progress=true&theme=dracula" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewin-mm&count_private=true&layout=compact&theme=dracula" />
 </a>
 <a href="https://github.com/yewin-mm">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yewin-mm&show_icons=true&theme=dracula" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=yewin-mm&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
