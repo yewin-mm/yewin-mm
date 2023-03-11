@@ -45,8 +45,8 @@
 
 
 
-<p><h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions and experienced in DevOps and Architect. <br>
-I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes.</h4></p>
+<h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions and experienced in DevOps and Architect.
+I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes.</h4>
 
 ## 👨🏻‍💻 My Portfolio Website
 <p>
