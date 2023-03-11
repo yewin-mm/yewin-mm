@@ -1,35 +1,65 @@
 <p align="center">
-[![Ye Win Banner](images/header.png)](https://yewin.me/)
+<a href="https://yewin.me/" target="_blank">
+<img src="images/header.png" />
+</a>
 </p>
 
+<!-- you can use below approach for image too
+[![Ye Win Banner](images/header.png)](https://yewin.me/)
+-->
+
 <p align="center">
+<a href="https://www.linkedin.com/in/ye-win-1a33a292/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<!-- you can use below approach to get badge icon too, but it doesn't work on <p> tag. 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ye-win-1a33a292/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yewin.me/)
-<a href="mailto:yewin.mmr@gmail.com">
+-->
+
+
+<a href="mailto:yewin.mmr@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://yewin-mm.medium.com/)
+
 <a href="https://wa.me/959252656065?text=Hi">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 <a href="skype:live:yephonethway94_1?chat">
 <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
 </a>
+
+</p>
+
+
+<p align="center">
+<a href="https://yewin.me/" target="_blank">
+<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</a>
+
+
+<a href="https://yewin-mm.medium.com/" target="_blank">
+<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 </p>
 
 <p align="center">
+<a href="#">
 	<img src="https://komarev.com/ghpvc/?username=yewin-mm&color=blueviolet&style=flat-square&label=Profile+Views" />
+</a>
 </p>
 
 
-Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions and experienced in DevOps and Architect. <br>
-I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes.
+
+<p><h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions and experienced in DevOps and Architect. <br>
+I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes.</h4></p>
 
 ## 👨🏻‍💻 My Portfolio Website
-⬇️⬇️⬇️️️️ <br>
+<p>
 <a href="https://yewin.me/">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" width="100" height="30" />
 </a>
+</p>
 
 ## 📌 Pinned Repositories
 
