@@ -22,10 +22,11 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://wa.me/959252656065?text=Hi">
+<a href="https://wa.me/959252656065?text=Hi" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a href="skype:live:yephonethway94_1?chat">
+
+<a href="skype:live:yephonethway94_1?chat" target="_blank">
 <img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
 </a>
 
