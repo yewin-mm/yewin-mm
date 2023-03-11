@@ -9,6 +9,12 @@
 -->
 
 <p align="center">
+
+<a href="https://yewin.me/" target="_blank">
+<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+</a>
+
+
 <a href="https://www.linkedin.com/in/ye-win-1a33a292/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -26,24 +32,11 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="skype:live:yephonethway94_1?chat" target="_blank">
-<img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" />
-</a>
-
-</p>
-
-
-<p align="center">
-<a href="https://yewin.me/" target="_blank">
-<img src ="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-</a>
-
-
 <a href="https://yewin-mm.medium.com/" target="_blank">
 <img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-</p>
 
+</p>
 <p align="center">
 <a href="#">
 	<img src="https://komarev.com/ghpvc/?username=yewin-mm&color=blueviolet&style=flat-square&label=Profile+Views" />
