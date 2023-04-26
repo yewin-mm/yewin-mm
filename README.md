@@ -46,7 +46,7 @@
 
 
 <h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions and experienced in DevOps and Architect.
-I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes. You can also use my personal library called [helper-util](https://github.com/yewin-mm/helper-util) to get some help in your development.</h4>
+I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes. You can also use my personal library called <a href= "https://github.com/yewin-mm/helper-util">helper-util</a> to get some help in your development.</h4>
 
 ## 👨🏻‍💻 My Portfolio Website
 <p>
