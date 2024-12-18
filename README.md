@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://wa.me/959252656065?text=Hi" target="_blank">
+<a href="https://wa.me/6591344653?text=Hi" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
@@ -46,7 +46,8 @@
 
 
 <h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, <br>
-I have a passion for designing and developing complex software solutions, specializing in building scalable microservices. I bring expertise in Java development with a strong focus on Spring Boot, Spring Cloud, Docker, and CI/CD cloud deployment, as well as experience using message brokers like RabbitMQ and Kafka. I also have a working knowledge of Kubernetes and OpenShift, along with experience in microservice architecture and DevOps practices. <br><br>
+I have a passion for designing and developing complex software solutions, specializing in building scalable microservices. <br>
+I bring expertise in Java development with a strong focus on Spring Boot, Spring Cloud, Docker, and CI/CD cloud deployment, as well as experience using message brokers like RabbitMQ and Kafka. I also have a working knowledge of Kubernetes and OpenShift, along with experience in microservice architecture and DevOps practices. <br><br>
 Additionally, you can explore my personal library, <a href= "https://github.com/yewin-mm/helper-util">helper-util</a>, which simplifies development tasks. It includes a range of useful utilities such as data validation, string manipulation, collection functions, datetime handling, password utilities, and more.</h4>
 
 ## 👨🏻‍💻 My Portfolio Website
