@@ -45,7 +45,8 @@
 
 
 
-<h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions, specializing in building scalable microservices. I bring expertise in Java development with a strong focus on Spring Boot, Spring Cloud, Docker, and CI/CD cloud deployment, as well as experience using message brokers like RabbitMQ and Kafka. I also have a working knowledge of Kubernetes and OpenShift, along with experience in microservice architecture and DevOps practices. <br>
+<h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, <br>
+I have a passion for designing and developing complex software solutions, specializing in building scalable microservices. I bring expertise in Java development with a strong focus on Spring Boot, Spring Cloud, Docker, and CI/CD cloud deployment, as well as experience using message brokers like RabbitMQ and Kafka. I also have a working knowledge of Kubernetes and OpenShift, along with experience in microservice architecture and DevOps practices. <br><br>
 Additionally, you can explore my personal library, <a href= "https://github.com/yewin-mm/helper-util">helper-util</a>, which simplifies development tasks. It includes a range of useful utilities such as data validation, string manipulation, collection functions, datetime handling, password utilities, and more.</h4>
 
 ## 👨🏻‍💻 My Portfolio Website
