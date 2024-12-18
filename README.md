@@ -45,8 +45,8 @@
 
 
 
-<h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions and experienced in DevOps and Architect.
-I specialize in Java development with expertise in Spring Boot, Spring Cloud, Docker and Kubernetes. You can also use my personal library called <a href= "https://github.com/yewin-mm/helper-util">helper-util</a> to get some help in your development by data validation, getting datetime as zoneId, password encoding, etc.</h4>
+<h4>Hi, I'm Ye Win, an accomplished Senior Backend Developer, I have a passion for designing and developing complex software solutions, specializing in building scalable microservices. I bring expertise in Java development with a strong focus on Spring Boot, Spring Cloud, Docker, and CI/CD cloud deployment, as well as experience using message brokers like RabbitMQ and Kafka. I also have a working knowledge of Kubernetes and OpenShift, along with experience in microservice architecture and DevOps practices. <br>
+Additionally, you can explore my personal library, <a href= "https://github.com/yewin-mm/helper-util">helper-util</a>, which simplifies development tasks. It includes a range of useful utilities such as data validation, string manipulation, collection functions, datetime handling, password utilities, and more.</h4>
 
 ## 👨🏻‍💻 My Portfolio Website
 <p>
@@ -120,14 +120,16 @@ public class YeWin {
 
     private static void showMySkills() {
         log.info(
-                "Good - Java, J2EE, JSP, Spring Boot, Spring Data JPA, Spring Cloud Config, Spring CLoud Netflix Eureka, Jhipster, Spring Security, Spring Thymeleaf, \n" +
+                "Good - Java, J2EE, JSP, Spring Boot, Spring Data JPA, Spring Cloud Config, , \n" +
+			"Spring Security, Spring CLoud Netflix Eureka, Spring Thymeleaf, \n" +
                         "JWT, OAuth2, Keycloak, Symmetric Encryption, Asymmetric Encryption, \n" +
-                        "Jenkins, Docker, RabbitMQ, Kafka, Keycloak, WS02,\n" +
+                        "Jenkins, Docker, RabbitMQ, Kafka, Jhipster, Keycloak, WS02,\n" +
                         "Nexus, Artifactory, Jasper Report, \n" +
-                        "Hibernate, Mybatis, Redis, MySQL, PostgreSQL, Oracle, MongoDB, \n" +
-                        "Junit, Swagger, Mountebank, \n" +
+                        "Hibernate, Mybatis, Flyway, Liquibase, \n" +
+			"Hibernate, Mybatis, Redis, MySQL, PostgreSQL, Oracle, MongoDB, \n" +
+                        "Junit, Jacoco, Swagger, Mountebank, \n" +
                         "Git, Bitbucket, Github, SVN, Jira, Agile Scrum Methodology, \n" +
-                        "Huawei Cloud, AWS, Tomcat, JBoss, \n" +
+                        "PCF, Huawei Cloud, AWS, Tomcat, JBoss, \n" +
                         "Shell Script, HTML, CSS, Bootstrap, Javascript, VBA (Macros)\n" +
                         "\n" +
                 "Normal - Kubernetes, Openshift \n" +
